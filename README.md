@@ -145,17 +145,6 @@ Machine Learning powered crop recommendation system.
 
 </div>
 
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
 
 # 🏆 Experience
 
@@ -218,19 +207,19 @@ Providing:
 
 <p>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Prince-M3">
 
 <img src="https://skillicons.dev/icons?i=github"/>
 
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://www.linkedin.com/in/princem3/">
 
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:iamprince030@gmail.com">
 
 <img src="https://skillicons.dev/icons?i=gmail"/>
 
