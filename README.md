@@ -2,43 +2,16 @@
 
 # 👋 Hi, I'm Prince
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Powered+Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js+Developer;Artificial+Intelligence+%26+Data+Science;Digital+Marketer+%7C+Entrepreneur;Building+Real+World+Products+🚀" />
-
-<img src="https://komarev.com/ghpvc/?username=Prince-M3&style=for-the-badge&color=0e75b6"/>
-
 </div>
 
----
 
-# 🚀 About Me
+# 💫 About Me
 
-```javascript
-const prince = {
-    location: "India 🇮🇳",
+Hi, I'm Prince, an AI-Powered Full Stack Developer, Digital Marketer. I enjoy building scalable web applications, exploring Artificial Intelligence, and creating technology that solves real-world problems.
 
-    role: "AI Powered Full Stack Developer",
+My primary tech stack includes Next.js, React, Node.js, Python, Prisma, PostgreSQL, MySQL, and modern web technologies. I'm passionate about continuous learning, open-source development, and building products that deliver real value.
 
-    company: "CEO @ Cryzon",
-
-    education: "Artificial Intelligence & Data Science",
-
-    currentFocus: [
-        "Next.js",
-        "AI Applications",
-        "Scalable Web Apps",
-        "System Design",
-        "Digital Marketing"
-    ],
-
-    hobbies: [
-        "Coding",
-        "Building Startups",
-        "YouTube",
-        "Learning AI",
-        "Technology"
-    ]
-}
-```
+Currently, I'm focused on AI-powered applications, scalable full-stack development, system design, and growing my startup, Cryzon.
 
 ---
 
@@ -125,17 +98,6 @@ Machine Learning powered crop recommendation system.
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prince-M3&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-M3&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
