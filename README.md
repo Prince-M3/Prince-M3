@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Powered+Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js+Developer;Artificial+Intelligence+%26+Data+Science;Digital+Marketer+%7C+Entrepreneur;Building+Real+World+Products+🚀" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=Prince-M3&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
@@ -129,9 +129,9 @@ Machine Learning powered crop recommendation system.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prince-M3&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-M3&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -141,10 +141,9 @@ Machine Learning powered crop recommendation system.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Prince-M3&theme=tokyonight&hide_border=true"/>
 
 </div>
-
 
 # 🏆 Experience
 
