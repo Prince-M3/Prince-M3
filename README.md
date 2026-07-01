@@ -11,7 +11,7 @@ Hi, I'm Prince, an AI-Powered Full Stack Developer, Digital Marketer. I enjoy bu
 
 My primary tech stack includes Next.js, React, Node.js, Python, Prisma, PostgreSQL, MySQL, and modern web technologies. I'm passionate about continuous learning, open-source development, and building products that deliver real value.
 
-Currently, I'm focused on AI-powered applications, scalable full-stack development, system design, and growing my startup, Cryzon.
+Currently, I'm focused on AI-powered applications, scalable full-stack development, system design, and growing my skills.
 
 ---
 
